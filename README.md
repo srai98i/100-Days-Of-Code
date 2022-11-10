@@ -15,4 +15,4 @@ Documenting my learnings through the #100DaysOfCode challenge
 - Solved a Codewars problem to practice my JavaScript skills. Broke down the problem into smaller, more manageable tasks in order to find a solution. 
 
 ### Day 4
-- Practiced applying different array methods to find solutions to Codewars problems. 
+- Focused on Codewars to strengthen my Vanilla JS and problem solving skills. Practiced applying different array methods to find solutions. 
