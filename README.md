@@ -16,3 +16,7 @@ Documenting my learnings through the #100DaysOfCode challenge
 
 ### Day 4
 - Focused on Codewars to strengthen my Vanilla JS and problem solving skills. Practiced applying different array methods to find solutions. 
+
+### Day 5 
+- Made progress with the Instagram React Native Clone and finished building the HomeScreen component. Learnt about dynamic styling. 
+- Attempted to build components without assistance and then compared my code to code from a tutorial. Seeing how someone more experienced would go about writing the same code I am writing is giving me an insight into how to write cleaner, more readable code. 
