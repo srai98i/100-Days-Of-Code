@@ -20,3 +20,8 @@ Documenting my learnings through the #100DaysOfCode challenge
 ### Day 5 
 - Made progress with the Instagram React Native Clone and finished building the HomeScreen component. Learnt about dynamic styling. 
 - Attempted to build components without assistance and then compared my code to code from a tutorial. Seeing how someone more experienced would go about writing the same code I am writing is giving me an insight into how to write cleaner, more readable code. 
+
+### Day 6
+- Positive Mind (React Native): found an npm package to add a popup modal to our project so users can input tasks. Using props, we are working on passing individual functions to each display box which will handle submitting information to the correct data libs i.e morning tasks are stored in the morning data libs. 
+- To Do (React): made some CSS adjustments and redeployed.
+- Instagram React Clone (React Native): Started building another screen (AddNewPost).
