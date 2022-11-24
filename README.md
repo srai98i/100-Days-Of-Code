@@ -25,3 +25,12 @@ Documenting my learnings through the #100DaysOfCode challenge
 - Positive Mind (React Native): found an npm package to add a popup modal to our project so users can input tasks. Using props, we are working on passing individual functions to each display box which will handle submitting information to the correct data libs i.e morning tasks are stored in the morning data libs. 
 - To Do (React): made some CSS adjustments and redeployed.
 - Instagram React Clone (React Native): Started building another screen (AddNewPost).
+
+### Day 7 
+- Positive Mind (React Native): completed styling of popup component. Reflected on the structure of the app and decided to plan how we were going to manage state and on which levels should state be managed. 
+- Watched a video by Kent C. Dodds on React state management: 
+    - Learnt the difference between UI state and server cache state.
+    - Where we choose to manage state can have an impact on the performance of the app: having too much global state can cause performance issues.
+    - Learnt about composition as a way to tackle prop drilling. 
+    - Refreshed knowledge on how to use Context.
+
