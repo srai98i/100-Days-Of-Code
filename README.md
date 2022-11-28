@@ -1,10 +1,11 @@
 # 100-Days-Of-Code
 Documenting my learnings through the #100DaysOfCode challenge
 
+<details>
+<summary>Days 1-10</summary>
 ### Day 1
 - Learned about Object Oriented Programming and Design Patterns. Watched a video explaining the four main principles of design patterns (Encapsulation, Abstraction, Inheritance, Polymorphism) and read an article about how these can be applied in Functional Programming. 
 - Continued building the React Native Instagram Clone. Header and Stories components are complete, almost finished with building the Post component. Becoming more familiar with React Native components. Still find the debugging process a bit complicated. 
-
 
 ### Day 2
 - Made progress with the Positive Mind project. Used what I learnt from the React Native Instagram Clone Tutorial to help me with styling and functionality in this project.
@@ -33,4 +34,10 @@ Documenting my learnings through the #100DaysOfCode challenge
     - Where we choose to manage state can have an impact on the performance of the app: having too much global state can cause performance issues.
     - Learnt about composition as a way to tackle prop drilling. 
     - Refreshed knowledge on how to use Context.
+    
+### Day 8 
+- Positive Mind (React Native): reflected on what I learnt from the React state management video I watched previously and planned where to manage state in our app. Manage to render user inputted data on our app. At the moment, we are using libs to provide data for the frontend but aim to build a backend to connect to the frontend. 
+- Practiced using array methods (filter, map, reduce) to solve code problems. 
+</details>
+
 
