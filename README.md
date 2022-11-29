@@ -39,6 +39,10 @@ Documenting my learnings through the #100DaysOfCode challenge
 ### Day 8 
 - Positive Mind (React Native): reflected on what I learnt from the React state management video I watched previously and planned where to manage state in our app. Manage to render user inputted data on our app. At the moment, we are using libs to provide data for the frontend but aim to build a backend to connect to the frontend. 
 - Practiced using array methods (filter, map, reduce) to solve code problems. 
+
+### Day 9 
+- Added a new InProgress component to my portfolio to show what I've currently been working on. Fine tuned responsiveness of site with CSS Tailwind media queries. Added some conditional rendering based on whether a component receives a prop or not. 
+
 </details>
 
 
