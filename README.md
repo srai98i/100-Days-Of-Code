@@ -41,7 +41,7 @@ Documenting my learnings through the #100DaysOfCode challenge
 - Practiced using array methods (filter, map, reduce) to solve code problems. 
 
 ### Day 9 
-- Added a new InProgress component to my portfolio to show what I've currently been working on. Fine tuned responsiveness of site with CSS Tailwind media queries. Added some conditional rendering based on whether a component receives a prop or not. 
+- Added a new InProgress component to my portfolio to show what I've currently been working on. Fine tuned responsiveness of site with CSS Tailwind media queries. Added some conditional rendering based on whether a component receives a prop or not. Researching ways to improve the design of my portfolio.
 
 </details>
 
