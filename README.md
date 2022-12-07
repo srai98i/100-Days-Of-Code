@@ -50,7 +50,8 @@ Documenting my learnings through the #100DaysOfCode challenge
 
 <details>
 <summary>Days 11-20</summary>
-### Day 10 
+    
+### Day 11 
 - Learning about system design and what to consider when designing a system e.g availability, scalability, performance, caching etc. Using tradeoff analysis and taking into account the business plan and the needs of the user, we can determine the best approach to building the system. 
 
 </details>
