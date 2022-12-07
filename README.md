@@ -42,7 +42,15 @@ Documenting my learnings through the #100DaysOfCode challenge
 
 ### Day 9 
 - Added a new InProgress component to my portfolio to show what I've currently been working on. Fine tuned responsiveness of site with CSS Tailwind media queries. Added some conditional rendering based on whether a component receives a prop or not. Researching ways to improve the design of my portfolio.
-
+    
+### Day 10 
+- Positive Mind (React Native): added delete task/clear all task functionality to the Routine screen.
+    
 </details>
 
+<details>
+<summary>Days 11-20</summary>
+### Day 10 
+- Learning about system design and what to consider when designing a system e.g availability, scalability, performance, caching etc. Using tradeoff analysis and taking into account the business plan and the needs of the user, we can determine the best approach to building the system. 
 
+</details>
