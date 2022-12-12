@@ -54,4 +54,13 @@ Documenting my learnings through the #100DaysOfCode challenge
 ### Day 11 
 - Learning about system design and what to consider when designing a system e.g availability, scalability, performance, caching etc. Using tradeoff analysis and taking into account the business plan and the needs of the user, we can determine the best approach to building the system. 
 
+### Day 12 
+- Solved a Codewars problem using array methods.
+
+### Day 13
+- Watched tutorials on how to use Firebase and researched NoSQL databases.
+
+### Day 14 
+- Solved a Codewars problem using conditions, while loops and ternary operators.
+
 </details>
